@@ -1,4 +1,4 @@
-<h2>Blockchain Engineer</h2><br>
+<h2>Blockchain Engineer/Full Stack Developer</h2><br>
 
 <b>⭐️ Blockchain Development:</b>
 <br>&nbsp; &nbsp; * Smart Contract(Solidity) Development & Deployment, and Audit
