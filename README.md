@@ -30,6 +30,10 @@
 <br>&nbsp; &nbsp; * Java, J2EE, Spring, etc.
 <br>&nbsp; &nbsp; * C#, VB.NET, .NET,
 <br>&nbsp; &nbsp; * C, C++, OpenCV, Qt/QML, and other C++ libraries.
+<h1>📬Contact</h1>
+<br>&nbsp; &nbsp; * [Telegram]  https://t.me/pinecrypto
+<br>&nbsp; &nbsp; * [Discord]   https://discord.gg/nBe8XyMpcm
+<br>&nbsp; &nbsp; * [Email]     bluedragon.cstar@gmail.com
 
 <h1>🛠 Tech</h1>
 
