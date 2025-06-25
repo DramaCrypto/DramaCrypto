@@ -34,7 +34,7 @@
 <br>&nbsp; &nbsp; * [Telegram]  https://t.me/pinecrypto
 <br>&nbsp; &nbsp; * [Discord]   https://discord.gg/nBe8XyMpcm
 <br>&nbsp; &nbsp; * [Email]     bluedragon.cstar@gmail.com
-
+<br>&nbsp; &nbsp; * [Teams]     bluedragon.cstar@outlook.com
 <h1>🛠 Tech</h1>
 
 <div>
