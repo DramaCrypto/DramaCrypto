@@ -1,4 +1,10 @@
-<h2>Blockchain Engineer/Full Stack Developer</h2><br>
+<h2>I am AiFi- AI Engineer | Blockchain Engineer | Full Stack Developer</h2><br>
+
+<b>⭐️ AI Engineering:</b>
+<br>&nbsp; &nbsp; * Natural Language Interfaces (LLMs, GPT, Claude, Gemini)
+<br>&nbsp; &nbsp; * Speech-to-Text / Voiceprint Biometrics (Whisper, Vosk, VoiceIt)
+<br>&nbsp; &nbsp; * Autonomous Agents / RAG / Vector Search (LangChain, LlamaIndex, Pinecone)
+<br>&nbsp; &nbsp; * Chatbot, Voice assistant
 
 <b>⭐️ Blockchain Development:</b>
 <br>&nbsp; &nbsp; * Smart Contract(Solidity) Development & Deployment, and Audit
